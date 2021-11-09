@@ -1,5 +1,0 @@
-* INTRO
-** Code Comments
-*** Single line comments = #
-*** Multi line comments start with =begin and end with =end
-
